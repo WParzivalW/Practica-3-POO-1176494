@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FichaDomino
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FichaDomino\ here.\r\n\ \r\n\ @author\ (Luis\ Manuel\ Deniz\ Ramirez\ (1176494))\ \r\n\ @version\ (Versi\u00F3n\ 2.0)\r\n
+comment1.params=ladoA\ ladoB
+comment1.target=FichaDomino(int,\ int)
+comment2.params=
+comment2.target=int\ getLadoA()
+comment3.params=
+comment3.target=int\ getLadoB()
+comment4.params=ladoA
+comment4.target=void\ setLadoA(int)
+comment5.params=ladoB
+comment5.target=void\ setLadoB(int)
+numComments=6

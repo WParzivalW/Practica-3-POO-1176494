@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Jugador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Jugador\ here.\r\n\ \r\n\ @author\ (Luis\ Manuel\ Deniz\ Ramirez\ (1176494))\ \r\n\ @version\ (Versi\u00F3n\ 2.0)\r\n
+comment1.params=
+comment1.target=Jugador()
+comment2.params=ficha
+comment2.target=void\ agregarFicha(FichaDomino)
+comment3.params=indice
+comment3.target=FichaDomino\ getFicha(int)
+comment4.params=indice
+comment4.target=void\ removerFicha(int)
+comment5.params=
+comment5.target=void\ mostrarFichas()
+comment6.params=
+comment6.target=int\ calcularPuntuacion()
+numComments=7
